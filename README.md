@@ -1,17 +1,22 @@
-# movies_2
+# Movies App
 
-A new Flutter project.
+## Student Information
 
-## Getting Started
+**Name:** Badr Mohamed
 
-This project is a starting point for a Flutter application.
+## Project Description
 
-A few resources to get you started if this is your first Flutter project:
+Movies App is a Flutter application that allows users to browse and explore movies in a simple and user-friendly interface. The application displays movie information such as titles, posters, ratings, and details.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Browse movies
+* View movie details
+* Clean and responsive UI
+* Built using Flutter
+
+## Technologies Used
+
+* Flutter
+* Dart
+
